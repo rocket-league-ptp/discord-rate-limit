@@ -1,0 +1,19 @@
+{
+  "name": "@part-time-pros/discord-rate-limit",
+  "version": "0.2.0",
+  "description": "Rate limit discord bot messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocket-league-ptp/discord-rate-limit.git"
+  },
+  "author": "illegal-function",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/rocket-league-ptp/discord-rate-limit/issues"
+  },
+  "homepage": "https://github.com/rocket-league-ptp/discord-rate-limit#readme"
+}
